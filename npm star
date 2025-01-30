@@ -1,4 +1,4 @@
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/Devtali/New-dev-Hinugera-/tree/main
+git remote add origin https://github.com/Devtali/New-dev-Hinugera-.git
