@@ -15,7 +15,7 @@ Méthode 1
 ➡️ Surfez gratuitement sur Internet 😁👍.
 *_★Ω«REGLE=Pas de lien sans mon accord,sinon je vous ban»Ω★_*
 `Partager le lien du groupe les gars`
-*Objectif 700 membres : https://chat.whatsapp.com/JNjzKEqj1VZAFH8zBxe2gl*
+*Objectif 700 membres : https://whatsapp.com/channel/0029VajBry5FnSzAqZxMhi1i*
 
 *rejoignez aussi notre canal Télégram pour avoir accès aux précédentes configurations : https://t.me/VPNfreelife🌸🪷*
 { ~La seconde méthode est dans la description du groupe et pour plus de renseignements regarder le~ https://t.me/VPNfreelife/543}
