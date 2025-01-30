@@ -1,4 +1,5 @@
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/Devtali/New-dev-Hinugera-.git
+git remote add origin https://github.com/TON_UTILISATEUR/whatsapp-bot.git
+git push -u origin master
